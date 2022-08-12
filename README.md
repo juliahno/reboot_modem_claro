@@ -18,4 +18,4 @@ Pode-se acessar o resultado do processamento, pela função MD5, de uma das form
 5. Clique na aba "Payload" para visualização dos dados.
 
 <br>
-*A função MD5 citada não produz os *hashes* da função criptográfica de mesmo nome. 
+*A função MD5 citada não produz os hashes da função criptográfica de mesmo nome. 
