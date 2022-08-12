@@ -1,9 +1,9 @@
 ## Script para reboot do modem Claro Kaon CG3000
 
 Para uso do script é necessário informar **MD5_USUARIO** e **MD5_SENHA**.<br>
-O conteúdo destas variáveis pode ser obtido a partir da função MD5* contida no arquivo Javascript da página do modem (http://192.168.0.1).
+O conteúdo destas variáveis pode ser obtido a partir da função md5* contida no arquivo Javascript da página do modem (http://192.168.0.1).
 
-Pode-se acessar a saída da função MD5 de uma das formas abaixo:
+Pode-se acessar a saída da função md5 de uma das formas abaixo:
 
 - **Opção 1**
 1. Na página inicial do modem, abra as ferramentas de desenvolvedor (CTRL+SHIFT+I);
@@ -18,4 +18,4 @@ Pode-se acessar a saída da função MD5 de uma das formas abaixo:
 5. Clique na aba "Payload" para visualizar dos dados de usuário e senha.
 
 <br>
-*A função MD5 citada não produz hashes iguais aos da função criptográfica de mesmo nome. 
+*A função md5 citada não produz hashes iguais aos da função criptográfica de mesmo nome. 
