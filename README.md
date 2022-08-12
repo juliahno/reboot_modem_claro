@@ -18,4 +18,4 @@ Pode-se acessar a saída da função MD5 de uma das formas abaixo:
 5. Clique na aba "Payload" para visualizar dos dados de usuário e senha.
 
 <br>
-*A função MD5 citada não produz os hashes iguais aos da função criptográfica de mesmo nome. 
+*A função MD5 citada não produz hashes iguais aos da função criptográfica de mesmo nome. 
