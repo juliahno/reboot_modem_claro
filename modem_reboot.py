@@ -25,7 +25,6 @@ except Exception as e:
 
 URL_REBOOT = "http://192.168.0.1/rebootinfo.cgi?path_name=resetrouter.html"
 
-sessao = requests.Session()
 try:
     resposta_reboot = sessao.get(URL_REBOOT, timeout=3)
     resposta_reboot.raise_for_status()
