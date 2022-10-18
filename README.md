@@ -15,7 +15,7 @@ Pode-se acessar a saída da função md5 de uma das formas abaixo:
 2. Clique na aba "Network";
 3. Logue-se na página do modem;
 4. Na console de desenvolvedor, localize "logincheck.cmd" e clique sobre o nome;
-5. Clique na aba "Payload" para visualizar dos dados de usuário e senha.
+5. Clique na aba "Payload" para visualizar os dados de usuário e senha.
 
 <br>
 *A função md5 citada não produz hashes iguais aos da função criptográfica de mesmo nome. 
